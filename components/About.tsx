@@ -53,11 +53,11 @@ export default function About() {
               {/* Subtle Background Glow */}
               <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[100%] h-[100%] bg-[radial-gradient(ellipse_at_center,_var(--tw-gradient-stops))] from-primary-100/15 via-primary-50/10 to-transparent rounded-full blur-2xl opacity-40"></div>
               
-              {/* Floating Product Card 1 - img8 (Top Left) */}
+              {/* Floating Product Card 1 - img29 (Top Left) */}
               <div className="absolute top-[5%] left-[5%] w-28 h-28 lg:w-36 lg:h-36 transform rotate-[-4deg] hover:rotate-[-2deg] hover:scale-105 transition-all duration-300 z-10">
                 <div className="relative w-full h-full rounded-2xl overflow-hidden bg-white shadow-lg border border-primary-100/40 hover:shadow-xl transition-all duration-300 animate-float">
                   <Image
-                    src="/images/img8.png"
+                    src="/images/products/img29.png"
                     alt="ANKA TASARIM Ürün"
                     width={200}
                     height={200}
@@ -66,11 +66,11 @@ export default function About() {
                 </div>
               </div>
 
-              {/* Floating Product Card 2 - img9 (Top Right) */}
+              {/* Floating Product Card 2 - img24 (Top Right) */}
               <div className="absolute top-[8%] right-[5%] w-28 h-28 lg:w-36 lg:h-36 transform rotate-[5deg] hover:rotate-[2deg] hover:scale-105 transition-all duration-300 z-10">
                 <div className="relative w-full h-full rounded-2xl overflow-hidden bg-white shadow-lg border border-primary-100/40 hover:shadow-xl transition-all duration-300 animate-float" style={{ animationDelay: '0.5s' }}>
                   <Image
-                    src="/images/img9.png"
+                    src="/images/products/img20.png"
                     alt="ANKA TASARIM Ürün"
                     width={200}
                     height={200}
@@ -79,11 +79,11 @@ export default function About() {
                 </div>
               </div>
 
-              {/* Floating Product Card 3 - img10 (Center) */}
+              {/* Floating Product Card 3 - img20 (Center) */}
               <div className="absolute top-[50%] left-[50%] -translate-x-1/2 -translate-y-1/2 w-36 h-36 lg:w-44 lg:h-44 transform rotate-[-2deg] hover:rotate-0 hover:scale-105 transition-all duration-300 z-20">
                 <div className="relative w-full h-full rounded-3xl overflow-hidden bg-white shadow-xl border border-primary-100/40 hover:shadow-2xl transition-all duration-300 animate-float" style={{ animationDelay: '1s' }}>
                   <Image
-                    src="/images/img10.png"
+                    src="/images/products/img24.png"
                     alt="ANKA TASARIM Ürün"
                     width={250}
                     height={250}
@@ -92,11 +92,11 @@ export default function About() {
                 </div>
               </div>
 
-              {/* Floating Product Card 4 - img7 (Bottom Left) */}
+              {/* Floating Product Card 4 - img28 (Bottom Left) */}
               <div className="absolute bottom-[8%] left-[5%] w-28 h-28 lg:w-36 lg:h-36 transform rotate-[-6deg] hover:rotate-[-3deg] hover:scale-105 transition-all duration-300 z-10">
                 <div className="relative w-full h-full rounded-2xl overflow-hidden bg-white shadow-lg border border-primary-100/40 hover:shadow-xl transition-all duration-300 animate-float" style={{ animationDelay: '1.5s' }}>
                   <Image
-                    src="/images/img7.png"
+                    src="/images/products/img28.png"
                     alt="ANKA TASARIM Ürün"
                     width={200}
                     height={200}
@@ -105,11 +105,11 @@ export default function About() {
                 </div>
               </div>
 
-              {/* Floating Product Card 5 - img6 (Bottom Right) */}
+              {/* Floating Product Card 5 - img16 (Bottom Right) */}
               <div className="absolute bottom-[5%] right-[5%] w-28 h-28 lg:w-36 lg:h-36 transform rotate-[4deg] hover:rotate-[2deg] hover:scale-105 transition-all duration-300 z-10">
                 <div className="relative w-full h-full rounded-2xl overflow-hidden bg-white shadow-lg border border-primary-100/40 hover:shadow-xl transition-all duration-300 animate-float" style={{ animationDelay: '2s' }}>
                   <Image
-                    src="/images/img6.jpeg"
+                    src="/images/products/img16.png"
                     alt="ANKA TASARIM Ürün"
                     width={200}
                     height={200}
